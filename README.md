@@ -10,3 +10,5 @@ Oh, it's nice to meet you, Sparky! Hello as well!
 How have you been doing today?
 
 _I crave spaghetti_
+
+Spaghetti sounds nice! Shall we dine together?
