@@ -1,2 +1,2 @@
-# Game10033-Assign-1
+# Game10033-Github-Test
 Assignment 1 practice repository Sept 10
